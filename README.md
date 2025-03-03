@@ -1,9 +1,9 @@
 # C-lculo-de-media-aritm-tica-simples
 Portugol Studio
+
 programa {
   funcao inicio() {
     
-
     real num1, num2, num3, media
 
     escreva("Digite o primeiro numero ")
